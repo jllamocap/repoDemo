@@ -1,5 +1,4 @@
 # repoDemo
 
 demoa
-demob
 democ
